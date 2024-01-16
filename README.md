@@ -63,4 +63,5 @@ Everyone interacting in this project’s codebases, issue trackers, chat rooms a
 
 ## Contribution guide
 
-Pull requests are welcome!
+Credit to https://github.com/mattbrictson/gem
+Contribute there!
